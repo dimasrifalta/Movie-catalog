@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#63CDDA</color>
+    <color name="colorPrimaryDark">#3DC1D3</color>
+    <color name="colorAccent">#E66767</color>
+
+    <color name="white">#ffffff</color>
+    <color name="gray_light">#eeeeee</color>
+    <color name="gray">#aaaaaa</color>
+    <color name="black">#000000</color>
+    <color name="black_60">#99000000</color>
+    <color name="black_40">#66000000</color>
+
+    <color name="btn_green">#27ae60</color>
+    <color name="orangeDark">#ae5000</color>
+    <color name="orange">#E67E22</color>
+
+
+</resources>

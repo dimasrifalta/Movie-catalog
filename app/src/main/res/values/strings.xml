@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+
+
+
+
+    <string name="navigation_drawer_open">Buka Navigation</string>
+    <string name="navigation_drawer_close">Tutup navigation</string>
+
+    // Menu Navigation Drawer
+    <string name="home">Home</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="settings">Pengaturan</string>
+
+
+
+
+
+
+
+    <string name="title_home">Home</string>
+
+    <string name="title_menu_movies">Film</string>
+    <string name="title_menu_tvshow">Acara TV</string>
+
+    <string name="title">Judul Detail</string>
+    <string name="status">Status</string>
+    <string name="status_released">Status Rilis</string>
+    <string name="user_score">User Score</string>
+    <string name="score">Skor</string>
+    <string name="gendre">Gendre</string>
+    <string name="runtime">Runtime</string>
+    <string name="language">Bahasa</string>
+    <string name="duration">2h 15m</string>
+    <string name="budget">Budget</string>
+    <string name="Budget">$000000</string>
+    <string name="Revenue">$00000</string>
+    <string name="overview">Overview</string>
+    <string name="year_released">2019</string>
+
+
+
+
+</resources>
